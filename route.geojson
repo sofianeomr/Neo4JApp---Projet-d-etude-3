@@ -1,0 +1,948 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-02-01T20:17:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/3127196",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Avenue du Docteur Arnold Netter",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4062281,
+            48.8475248
+          ],
+          [
+            2.4062153,
+            48.847458
+          ],
+          [
+            2.4062071,
+            48.8474149
+          ],
+          [
+            2.4061986,
+            48.8473707
+          ],
+          [
+            2.4061884,
+            48.8472361
+          ],
+          [
+            2.4062327,
+            48.8471481
+          ]
+        ]
+      },
+      "id": "way/3127196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/8059149",
+        "busway:right": "lane",
+        "cycleway:left": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue des Maraîchers",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4077357,
+            48.848974
+          ],
+          [
+            2.4077447,
+            48.8488919
+          ],
+          [
+            2.4078219,
+            48.8478659
+          ],
+          [
+            2.4077944,
+            48.8476966
+          ],
+          [
+            2.4077822,
+            48.8476493
+          ],
+          [
+            2.4077587,
+            48.8475434
+          ],
+          [
+            2.4077322,
+            48.847392
+          ]
+        ]
+      },
+      "id": "way/8059149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/27933354",
+        "cycleway": "opposite",
+        "highway": "unclassified",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Mounet-Sully",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "survey 2013-09",
+        "surface": "paving_stones"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.405449,
+            48.8489359
+          ],
+          [
+            2.4055421,
+            48.848817
+          ],
+          [
+            2.4056385,
+            48.8487073
+          ],
+          [
+            2.4060117,
+            48.8482713
+          ],
+          [
+            2.4061105,
+            48.8482614
+          ],
+          [
+            2.4063069,
+            48.8482438
+          ],
+          [
+            2.4064675,
+            48.8482278
+          ]
+        ]
+      },
+      "id": "way/27933354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56461021",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "tertiary",
+        "lane_markings": "no",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Avenue du Docteur Arnold Netter",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4062327,
+            48.8471481
+          ],
+          [
+            2.4062134,
+            48.8470932
+          ],
+          [
+            2.4060253,
+            48.8461452
+          ],
+          [
+            2.4058166,
+            48.8450936
+          ],
+          [
+            2.4057683,
+            48.8448499
+          ],
+          [
+            2.4057637,
+            48.8448303
+          ],
+          [
+            2.4057386,
+            48.8447221
+          ]
+        ]
+      },
+      "id": "way/56461021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56461022",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Avenue du Docteur Arnold Netter",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4062327,
+            48.8471481
+          ],
+          [
+            2.4063527,
+            48.8472325
+          ],
+          [
+            2.4063588,
+            48.8472674
+          ],
+          [
+            2.4063627,
+            48.8472901
+          ],
+          [
+            2.4063741,
+            48.8473554
+          ],
+          [
+            2.4063818,
+            48.8473996
+          ]
+        ]
+      },
+      "id": "way/56461022"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56461023",
+        "highway": "secondary",
+        "maxspeed": "30",
+        "name": "Rue des Pyrénées",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4064197,
+            48.847985
+          ],
+          [
+            2.4063125,
+            48.8478852
+          ],
+          [
+            2.4063015,
+            48.8478536
+          ],
+          [
+            2.4062866,
+            48.8478065
+          ],
+          [
+            2.4062716,
+            48.8477526
+          ],
+          [
+            2.4062537,
+            48.847646
+          ],
+          [
+            2.4062281,
+            48.8475248
+          ]
+        ]
+      },
+      "id": "way/56461023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56461031",
+        "cycleway:right": "shared_lane",
+        "cycleway:right:lane": "pictogram",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Pyrénées",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.406401,
+            48.8475101
+          ],
+          [
+            2.4064232,
+            48.8476373
+          ],
+          [
+            2.4064315,
+            48.8477201
+          ]
+        ]
+      },
+      "id": "way/56461031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56464051",
+        "description:covid19": "double sens cyclable temporaire",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt",
+        "temporary:oneway:bicycle": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4064315,
+            48.8477201
+          ],
+          [
+            2.4062716,
+            48.8477526
+          ],
+          [
+            2.4061412,
+            48.8477819
+          ]
+        ]
+      },
+      "id": "way/56464051"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/56464052",
+        "cycleway:left": "opposite_lane",
+        "cycleway:left:temporary": "yes",
+        "description:covid19": "bande cyclable temporaire",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4061412,
+            48.8477819
+          ],
+          [
+            2.4060751,
+            48.8477875
+          ],
+          [
+            2.4060104,
+            48.8477928
+          ],
+          [
+            2.4053773,
+            48.8478459
+          ],
+          [
+            2.4048388,
+            48.8478906
+          ]
+        ]
+      },
+      "id": "way/56464052"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109400094",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.406401,
+            48.8475101
+          ],
+          [
+            2.4063103,
+            48.8475178
+          ],
+          [
+            2.4062281,
+            48.8475248
+          ]
+        ]
+      },
+      "id": "way/109400094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/109400097",
+        "cycleway:both": "no",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Pyrénées",
+        "surface": "asphalt",
+        "traffic:hourly": "640",
+        "traffic:hourly:source": "Open Data Paris 2019 : Comptage routier - Données trafic issues des capteurs permanents"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4065708,
+            48.8489527
+          ],
+          [
+            2.4065751,
+            48.8488436
+          ],
+          [
+            2.4064675,
+            48.8482278
+          ],
+          [
+            2.4064606,
+            48.8481928
+          ],
+          [
+            2.4064374,
+            48.8480747
+          ],
+          [
+            2.4064197,
+            48.847985
+          ]
+        ]
+      },
+      "id": "way/109400097"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123387109",
+        "cycleway:right": "no",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Avenue du Docteur Arnold Netter",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4063818,
+            48.8473996
+          ],
+          [
+            2.406392,
+            48.8474585
+          ],
+          [
+            2.406401,
+            48.8475101
+          ]
+        ]
+      },
+      "id": "way/123387109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123387112",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4073443,
+            48.8473158
+          ],
+          [
+            2.4078211,
+            48.8472753
+          ],
+          [
+            2.4087872,
+            48.8471937
+          ],
+          [
+            2.4088462,
+            48.84719
+          ],
+          [
+            2.4098332,
+            48.8471022
+          ]
+        ]
+      },
+      "id": "way/123387112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/123458884",
+        "busway:right": "track",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4062281,
+            48.8475248
+          ],
+          [
+            2.405971,
+            48.8475485
+          ],
+          [
+            2.4057334,
+            48.8475692
+          ],
+          [
+            2.4047315,
+            48.8476591
+          ],
+          [
+            2.4036456,
+            48.8477529
+          ],
+          [
+            2.4029348,
+            48.8478187
+          ],
+          [
+            2.4024595,
+            48.8478591
+          ],
+          [
+            2.400971,
+            48.8479886
+          ],
+          [
+            2.3995101,
+            48.8481272
+          ],
+          [
+            2.3994885,
+            48.8481293
+          ],
+          [
+            2.3994446,
+            48.8481347
+          ],
+          [
+            2.3992048,
+            48.8481547
+          ]
+        ]
+      },
+      "id": "way/123458884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/174449845",
+        "highway": "residential",
+        "maxspeed": "30",
+        "motor_vehicle": "destination",
+        "name": "Impasse Vassou",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4073416,
+            48.8465481
+          ],
+          [
+            2.4081453,
+            48.8462609
+          ]
+        ]
+      },
+      "id": "way/174449845"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233179770",
+        "busway:right": "track",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "3",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3991832,
+            48.8480293
+          ],
+          [
+            2.399404,
+            48.8480161
+          ],
+          [
+            2.4009553,
+            48.8478927
+          ],
+          [
+            2.4024503,
+            48.8477551
+          ],
+          [
+            2.4030829,
+            48.847706
+          ],
+          [
+            2.4036248,
+            48.8476544
+          ],
+          [
+            2.4059259,
+            48.8474395
+          ],
+          [
+            2.40602,
+            48.8474312
+          ],
+          [
+            2.4062071,
+            48.8474149
+          ],
+          [
+            2.4063146,
+            48.8474055
+          ],
+          [
+            2.4063818,
+            48.8473996
+          ]
+        ]
+      },
+      "id": "way/233179770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/273585708",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue de la Voûte",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4060009,
+            48.8448492
+          ],
+          [
+            2.4074068,
+            48.8457483
+          ],
+          [
+            2.4078632,
+            48.8460653
+          ],
+          [
+            2.4081453,
+            48.8462609
+          ],
+          [
+            2.4081906,
+            48.8462949
+          ],
+          [
+            2.4085206,
+            48.8465216
+          ]
+        ]
+      },
+      "id": "way/273585708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/321591740",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxheight": "4.2",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4109181,
+            48.8471338
+          ],
+          [
+            2.4107707,
+            48.8471256
+          ],
+          [
+            2.4107126,
+            48.8471308
+          ],
+          [
+            2.410297,
+            48.8471682
+          ],
+          [
+            2.4097679,
+            48.8472139
+          ],
+          [
+            2.4092967,
+            48.8472554
+          ],
+          [
+            2.4089241,
+            48.8472892
+          ],
+          [
+            2.4088678,
+            48.847294
+          ],
+          [
+            2.4078414,
+            48.8473834
+          ],
+          [
+            2.4077322,
+            48.847392
+          ],
+          [
+            2.4072076,
+            48.8474391
+          ]
+        ]
+      },
+      "id": "way/321591740"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/537202151",
+        "highway": "secondary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue des Pyrénées",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4064315,
+            48.8477201
+          ],
+          [
+            2.4064421,
+            48.847774
+          ],
+          [
+            2.4064547,
+            48.8478439
+          ],
+          [
+            2.4064197,
+            48.847985
+          ]
+        ]
+      },
+      "id": "way/537202151"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/564970777",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4067421,
+            48.8474801
+          ],
+          [
+            2.406592,
+            48.8474933
+          ],
+          [
+            2.406401,
+            48.8475101
+          ]
+        ]
+      },
+      "id": "way/564970777"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742657445",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4072076,
+            48.8474391
+          ],
+          [
+            2.4067421,
+            48.8474801
+          ]
+        ]
+      },
+      "id": "way/742657445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742657446",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "primary",
+        "lanes": "2",
+        "lit": "yes",
+        "maxspeed": "50",
+        "name": "Cours de Vincennes",
+        "oneway": "yes",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.4063818,
+            48.8473996
+          ],
+          [
+            2.4066653,
+            48.8473734
+          ],
+          [
+            2.4070117,
+            48.8473441
+          ],
+          [
+            2.4073443,
+            48.8473158
+          ]
+        ]
+      },
+      "id": "way/742657446"
+    }
+  ]
+}

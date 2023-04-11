@@ -1,0 +1,782 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-01-30T09:18:09Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/18229612",
+        "busway:right": "lane",
+        "cycleway": "track",
+        "cycleway:both": "track",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Boulevard Montmartre",
+        "oneway": "no",
+        "psv:lanes:forward": "yes|designated",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3430679,
+            48.8714816
+          ],
+          [
+            2.3428797,
+            48.8715132
+          ],
+          [
+            2.341964,
+            48.8716687
+          ],
+          [
+            2.3418652,
+            48.8716848
+          ],
+          [
+            2.3416094,
+            48.871724
+          ],
+          [
+            2.3404086,
+            48.8719241
+          ]
+        ]
+      },
+      "id": "way/18229612"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/18230018",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "tertiary",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "sign",
+        "name": "Rue du Faubourg Montmartre",
+        "oneway": "yes",
+        "oneway:bicycle": "yes",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "source:maxspeed": "FR:zone30",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3430679,
+            48.8714816
+          ],
+          [
+            2.3430927,
+            48.8716072
+          ],
+          [
+            2.3431767,
+            48.8720074
+          ],
+          [
+            2.3431977,
+            48.8721716
+          ],
+          [
+            2.3431884,
+            48.8723001
+          ],
+          [
+            2.3431377,
+            48.8726165
+          ],
+          [
+            2.3431257,
+            48.8726897
+          ],
+          [
+            2.3430911,
+            48.8729125
+          ],
+          [
+            2.3430825,
+            48.8729531
+          ]
+        ]
+      },
+      "id": "way/18230018"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/23450289",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Passage des Panoramas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3418652,
+            48.8716848
+          ],
+          [
+            2.3418231,
+            48.8715311
+          ]
+        ]
+      },
+      "id": "way/23450289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/25129205",
+        "access": "private",
+        "highway": "service",
+        "name": "Cité Bergère",
+        "service": "alley"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3431767,
+            48.8720074
+          ],
+          [
+            2.3432857,
+            48.8719956
+          ]
+        ]
+      },
+      "id": "way/25129205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/34230336",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Vivienne",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "sidewalk": "both",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3406519,
+            48.8699331
+          ],
+          [
+            2.3406869,
+            48.8700009
+          ],
+          [
+            2.3408608,
+            48.8703292
+          ],
+          [
+            2.3408891,
+            48.870384
+          ],
+          [
+            2.3409244,
+            48.8704437
+          ],
+          [
+            2.3412029,
+            48.8709508
+          ],
+          [
+            2.3412165,
+            48.8709767
+          ],
+          [
+            2.3415262,
+            48.8715656
+          ],
+          [
+            2.3415386,
+            48.8715893
+          ],
+          [
+            2.3415552,
+            48.8716209
+          ],
+          [
+            2.3416094,
+            48.871724
+          ]
+        ]
+      },
+      "id": "way/34230336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54653643",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "lit": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3425997,
+            48.8714674
+          ],
+          [
+            2.3426671,
+            48.8714573
+          ]
+        ]
+      },
+      "id": "way/54653643"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/54895752",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "lit": "yes",
+        "ramp": "no",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "step_count": "22",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3435113,
+            48.8713278
+          ],
+          [
+            2.3434431,
+            48.8713392
+          ]
+        ]
+      },
+      "id": "way/54895752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69236726",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Passage Jouffroy",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3418652,
+            48.8716848
+          ],
+          [
+            2.3419187,
+            48.8718388
+          ]
+        ]
+      },
+      "id": "way/69236726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69240953",
+        "access": "private",
+        "highway": "service",
+        "name": "Cité Bergère",
+        "service": "alley",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3434834,
+            48.8719748
+          ],
+          [
+            2.3447252,
+            48.871844
+          ]
+        ]
+      },
+      "id": "way/69240953"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/69240957",
+        "access": "private",
+        "highway": "service",
+        "name": "Cité Bergère",
+        "service": "alley",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3432857,
+            48.8719956
+          ],
+          [
+            2.3434834,
+            48.8719748
+          ]
+        ]
+      },
+      "id": "way/69240957"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108264422",
+        "handrail": "yes",
+        "highway": "steps",
+        "incline": "down",
+        "lit": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.343657,
+            48.8714889
+          ],
+          [
+            2.343591,
+            48.8715001
+          ]
+        ]
+      },
+      "id": "way/108264422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108264424",
+        "conveying": "yes",
+        "escalator_dir": "up",
+        "highway": "steps",
+        "incline": "up",
+        "lit": "yes",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "surface": "concrete"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3427609,
+            48.8716407
+          ],
+          [
+            2.3426731,
+            48.871656
+          ]
+        ]
+      },
+      "id": "way/108264424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/108264426",
+        "architect": "Comte Félix de Jouffroy Gonsans",
+        "covered": "yes",
+        "highway": "footway",
+        "name": "Passage Jouffroy",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2010",
+        "start_date": "1844"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3419187,
+            48.8718388
+          ],
+          [
+            2.3422245,
+            48.8726117
+          ]
+        ]
+      },
+      "id": "way/108264426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/152319685",
+        "covered": "yes",
+        "highway": "footway",
+        "name": "Passage des Panoramas"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3418231,
+            48.8715311
+          ],
+          [
+            2.3417775,
+            48.8713713
+          ],
+          [
+            2.3417672,
+            48.8713352
+          ],
+          [
+            2.3417575,
+            48.871301
+          ],
+          [
+            2.3417485,
+            48.8712696
+          ],
+          [
+            2.341739,
+            48.8712362
+          ],
+          [
+            2.3417296,
+            48.8712032
+          ],
+          [
+            2.3417202,
+            48.8711703
+          ],
+          [
+            2.3417108,
+            48.8711373
+          ],
+          [
+            2.3417013,
+            48.8711042
+          ],
+          [
+            2.3416915,
+            48.8710698
+          ],
+          [
+            2.341682,
+            48.8710363
+          ],
+          [
+            2.3416727,
+            48.8710037
+          ],
+          [
+            2.3416636,
+            48.8709719
+          ],
+          [
+            2.3416448,
+            48.870906
+          ],
+          [
+            2.3416411,
+            48.8708928
+          ],
+          [
+            2.3415635,
+            48.8706208
+          ],
+          [
+            2.3415598,
+            48.8706079
+          ],
+          [
+            2.3415574,
+            48.8705996
+          ],
+          [
+            2.3415039,
+            48.8703749
+          ]
+        ]
+      },
+      "id": "way/152319685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/194586818",
+        "busway:right": "lane",
+        "cycleway": "track",
+        "cycleway:temporary": "yes",
+        "description:covid19": "piste cyclable temporaire",
+        "highway": "primary",
+        "lanes": "3",
+        "lanes:backward": "1",
+        "lanes:forward": "2",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Boulevard Poissonnière",
+        "oneway": "no",
+        "psv:lanes:forward": "yes|designated",
+        "sidewalk": "both",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3457164,
+            48.8710438
+          ],
+          [
+            2.3455936,
+            48.8710639
+          ],
+          [
+            2.3434208,
+            48.8714235
+          ],
+          [
+            2.3432139,
+            48.8714576
+          ],
+          [
+            2.3430679,
+            48.8714816
+          ]
+        ]
+      },
+      "id": "way/194586818"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/202869154",
+        "highway": "footway",
+        "layer": "-1",
+        "lit": "yes",
+        "smoothness": "good",
+        "source": "survey",
+        "surface": "asphalt",
+        "tunnel": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.343591,
+            48.8715001
+          ],
+          [
+            2.3427609,
+            48.8716407
+          ]
+        ]
+      },
+      "id": "way/202869154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/362033163",
+        "busway:right": "lane",
+        "cycleway:right": "share_busway",
+        "highway": "tertiary",
+        "lanes": "1",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Montmartre",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3426988,
+            48.870231
+          ],
+          [
+            2.342677,
+            48.8702966
+          ],
+          [
+            2.3427298,
+            48.870472
+          ],
+          [
+            2.3427913,
+            48.8706578
+          ],
+          [
+            2.3428383,
+            48.8707881
+          ],
+          [
+            2.3428609,
+            48.8708585
+          ],
+          [
+            2.3430091,
+            48.8713151
+          ],
+          [
+            2.3430261,
+            48.8713598
+          ],
+          [
+            2.3430679,
+            48.8714816
+          ]
+        ]
+      },
+      "id": "way/362033163"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/689134758",
+        "cycleway": "on_street",
+        "highway": "cycleway",
+        "lit": "yes",
+        "name": "Rue Montmartre",
+        "oneway": "yes",
+        "smoothness": "good",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3430679,
+            48.8714816
+          ],
+          [
+            2.3430021,
+            48.8713946
+          ],
+          [
+            2.342809,
+            48.8708682
+          ],
+          [
+            2.3426668,
+            48.8704808
+          ],
+          [
+            2.3426126,
+            48.8703012
+          ],
+          [
+            2.3426214,
+            48.8702219
+          ],
+          [
+            2.3426512,
+            48.8701328
+          ],
+          [
+            2.3426888,
+            48.8700169
+          ],
+          [
+            2.3427325,
+            48.8699171
+          ],
+          [
+            2.3427844,
+            48.8697979
+          ],
+          [
+            2.3428057,
+            48.8697447
+          ],
+          [
+            2.3431157,
+            48.8691328
+          ],
+          [
+            2.3431604,
+            48.8690446
+          ],
+          [
+            2.3432784,
+            48.8688077
+          ],
+          [
+            2.3432944,
+            48.8687702
+          ],
+          [
+            2.3433764,
+            48.8685778
+          ],
+          [
+            2.3435091,
+            48.8682802
+          ],
+          [
+            2.3436045,
+            48.8681688
+          ]
+        ]
+      },
+      "id": "way/689134758"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821304288",
+        "crossing": "marked",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "kerb": "lowered",
+        "sloped_curve": "yes",
+        "source": "survey",
+        "tactile_paving": "yes",
+        "traffic_sign": "FR:B30"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3430927,
+          48.8716072
+        ]
+      },
+      "id": "node/1821304288"
+    }
+  ]
+}

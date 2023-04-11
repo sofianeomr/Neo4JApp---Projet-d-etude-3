@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-02-01T20:58:39Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/32694625",
+        "highway": "residential",
+        "maxheight": "default",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Bouvier",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "surface": "asphalt",
+        "tunnel": "building_passage"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3865597,
+            48.8528588
+          ],
+          [
+            2.386509,
+            48.852963
+          ]
+        ]
+      },
+      "id": "way/32694625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/117884989",
+        "highway": "residential",
+        "maxspeed": "30",
+        "maxspeed:type": "FR:zone30",
+        "name": "Rue Bouvier",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "surface": "asphalt"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.386509,
+            48.852963
+          ],
+          [
+            2.3865038,
+            48.8529737
+          ],
+          [
+            2.3864908,
+            48.8530004
+          ]
+        ]
+      },
+      "id": "way/117884989"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/464782876",
+        "cycleway": "opposite",
+        "highway": "residential",
+        "lit": "yes",
+        "maxspeed": "30",
+        "name": "Rue Chanzy",
+        "oneway": "yes",
+        "oneway:bicycle": "no",
+        "smoothness": "good",
+        "surface": "asphalt",
+        "zone:maxspeed": "FR:30"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            2.3848998,
+            48.8526532
+          ],
+          [
+            2.3849954,
+            48.8526722
+          ],
+          [
+            2.3851172,
+            48.8526937
+          ],
+          [
+            2.3852489,
+            48.8527195
+          ],
+          [
+            2.3862583,
+            48.8529388
+          ],
+          [
+            2.3863387,
+            48.8529652
+          ],
+          [
+            2.3864908,
+            48.8530004
+          ],
+          [
+            2.3875328,
+            48.8532239
+          ],
+          [
+            2.3876213,
+            48.8532423
+          ],
+          [
+            2.3877269,
+            48.8532605
+          ]
+        ]
+      },
+      "id": "way/464782876"
+    }
+  ]
+}
